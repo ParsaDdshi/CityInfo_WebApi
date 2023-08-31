@@ -1,6 +1,6 @@
 
 # City Info API
- This project implemented with asp.net core web api, this api returns cities and their point of intersets and you can do CRUD operations with it. Documentation implemented with swagger.
+ This project implemented with asp.net core web api, api returns cities and their point of intersets and you can do CRUD operations with it. Documentation implemented with swagger.
 
 > [!WARNING]  
 The information in the database is not complete, so you must enter your data.
